@@ -3,7 +3,7 @@ Movie Trailer Website version 1.0 07/07/2015
 PROJECT LINK
 
 Check out the project by clicking the following link!
- 
+  
  https://aanyap.github.io/Movie-Trailer-Website/
 
 
